@@ -1,6 +1,6 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://saurabhsharma.dev/">Saurabh</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://www.saurabhsharma.dev">Saurabh</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/coder0011">LinkedIN</a> •
+  <a href="https://www.linkedin.com/in/coder0011">Linkedin</a> •
   <a href="https://www.instagram.com/_coder11">Instagram</a> •
   <a href="https://www.facebook.com/coder0011">Facebook</a>
 </p>
@@ -9,8 +9,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m currently working on something cool :wink:.
-- 🌱  I’m currently learning angular. 
+- 👨🏽‍💻  7+ Years of professional work experince in software development. :wink:.
+- 🌱  Full-Stack Developer
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: saurabh.ss668@gmail.com.
 
@@ -50,5 +50,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/coder0011/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=coder0011&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
